@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>健診機関一覧</title>
+</head>
+<style>
+body, ul {
+  margin: 0;
+}
+body {
+  color: #444;
+  line-height: 1.5;
+}
+ul {
+  padding: 0;
+}
+li {
+  line-height: 2rem;
+  vertical-align: middle;
+  display: inline-block;
+  padding: 0 .5rem;
+}
+label {
+  font-size: 1.125rem;
+}
+#map {
+  height: 100vh;
+  width: 100vw;
+}
+</style>
+<body>
+<div id="app-root"><div class="app">
+      <form>
+    <ul>
+      <li>
+        <label>
+          <input type="checkbox" name="0" />基本健診
+        </label>
+      </li><li>
+        <label>
+          <input type="checkbox" name="1" />健保指定ドック
+        </label>
+      </li><li>
+        <label>
+          <input type="checkbox" name="2" />1日人間ドック
+        </label>
+      </li><li>
+        <label>
+          <input type="checkbox" name="3" />2日人間ドック
+        </label>
+      </li><li>
+        <label>
+          <input type="checkbox" name="4" />脳ドック
+        </label>
+      </li><li>
+        <label>
+          <input type="checkbox" name="5" />大腸内視鏡検査
+        </label>
+      </li><li>
+        <label>
+          <input type="checkbox" name="6" />健診車
+        </label>
+      </li><li>
+        <label>
+          <input type="checkbox" name="7" />特定保健指導
+        </label>
+      </li>
+    </ul>
+  </form>
+    </div></div>
+<div id="map"></div>
+<script src="//maps.googleapis.com/maps/api/js?key=">
+</script>
+<script src="js/bundle.js"></script>
+</body>
+</html>

@@ -1,0 +1,1694 @@
+[
+  {
+    "name": "大久保健診センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/chokuei/ookubo.html",
+    "latlng": {
+      "lat": "35.702161",
+      "lng": "139.695883"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "山王健診センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/chokuei/sannou.html",
+    "latlng": {
+      "lat": "35.67269",
+      "lng": "139.739549"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "東京蒲田医療センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/kamata-hospital.html",
+    "latlng": {
+      "lat": "35.554522",
+      "lng": "139.723091"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "葛飾健診センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/tsk-katsushika.html",
+    "latlng": {
+      "lat": "35.737943",
+      "lng": "139.842653"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "進興クリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/shinko.html",
+    "latlng": {
+      "lat": "35.61846",
+      "lng": "139.727619"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "全日本労働福祉協会旗の台健診センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/zrf.html",
+    "latlng": {
+      "lat": "35.607033",
+      "lng": "139.697433"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "name": "ＭＹメディカルクリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/mymedical.html",
+    "latlng": {
+      "lat": "35.6619268",
+      "lng": "139.6918638"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "恵比寿ガーデンプレイスクリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/ebisu.html",
+    "latlng": {
+      "lat": "35.641984",
+      "lng": "139.713311"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "イーク表参道(女性専用施設)",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/ihc_osd.html",
+    "latlng": {
+      "lat": "35.6681231",
+      "lng": "139.7046251"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "フェニックスメディカルクリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/phoenix.html",
+    "latlng": {
+      "lat": "35.678597",
+      "lng": "139.705736"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "久野マインズタワークリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/maynds.html",
+    "latlng": {
+      "lat": "35.6870667",
+      "lng": "139.692166"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "新宿海上ビル診療所",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/tsurukamekai.html",
+    "latlng": {
+      "lat": "35.687435",
+      "lng": "139.696999"
+    },
+    "screening": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "新宿健診プラザ",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/nikkenkyo.html",
+    "latlng": {
+      "lat": "35.700352",
+      "lng": "139.6948284"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "帝京大学医学部附属 新宿クリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/teikyo.html",
+    "latlng": {
+      "lat": "35.6896923",
+      "lng": "139.692654"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "フィオーレ健診クリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/k-fiore.html",
+    "latlng": {
+      "lat": "35.697944",
+      "lng": "139.709079"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "総合健診センターヘルチェック レディース新宿(女性専用施設)",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/health-check_sjk.html",
+    "latlng": {
+      "lat": "35.6906756",
+      "lng": "139.6810692"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "城西病院予防医学本部健診センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/johsai-hp.html",
+    "latlng": {
+      "lat": "35.707902",
+      "lng": "139.614612"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "湘南メディカル記念病院",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/shounan_med.html",
+    "latlng": {
+      "lat": "35.6980325",
+      "lng": "139.7792668"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "健診プラザ両国",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/ryougoku.html",
+    "latlng": {
+      "lat": "35.693544",
+      "lng": "139.796292"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "オリエンタル上野健診センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/oriental-gr.html",
+    "latlng": {
+      "lat": "35.707597",
+      "lng": "139.772605"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "銀座医院健康管理センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/ginza.html",
+    "latlng": {
+      "lat": "35.669743",
+      "lng": "139.767985"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "三井タワークリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/mt-cl.html",
+    "latlng": {
+      "lat": "35.686921",
+      "lng": "139.773098"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "日比谷国際クリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/hibiyakokusai.html",
+    "latlng": {
+      "lat": "35.670397",
+      "lng": "139.754333"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "キャップスクリニック紀尾井町",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/kioi.html",
+    "latlng": {
+      "lat": "35.6798184",
+      "lng": "139.725318"
+    },
+    "screening": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "東都クリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/kenkoigaku.html",
+    "latlng": {
+      "lat": "35.680185",
+      "lng": "139.734957"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "秋葉原メディカルクリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/yukokai.html",
+    "latlng": {
+      "lat": "35.697316",
+      "lng": "139.772519"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "榊原サピアタワークリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/sapiatower-clinic.html",
+    "latlng": {
+      "lat": "35.683828",
+      "lng": "139.768517"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "イーク丸の内（女性専用施設）",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/ihc.html",
+    "latlng": {
+      "lat": "35.678599",
+      "lng": "139.764998"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "総合健診センターヘルチェック 池袋センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/ikebukuro.html",
+    "latlng": {
+      "lat": "35.728408",
+      "lng": "139.715893"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "東京ミッドタウンクリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/tokyomidtown-mc.html",
+    "latlng": {
+      "lat": "35.666205",
+      "lng": "139.731256"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "品川シーズンテラス健診クリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/sempos-shibaura.html",
+    "latlng": {
+      "lat": "35.632517",
+      "lng": "139.743106"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "みなと健診クリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/musashino-u.html",
+    "latlng": {
+      "lat": "35.628724",
+      "lng": "139.743025"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "芝パーククリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/shiba_park.html",
+    "latlng": {
+      "lat": "35.6561209",
+      "lng": "139.7429797"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "パークサイドクリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/parkside-clinic.html",
+    "latlng": {
+      "lat": "35.655588",
+      "lng": "139.750621"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "シーエスケー・クリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/cskclinic.html",
+    "latlng": {
+      "lat": "35.667966",
+      "lng": "139.757874"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "東京高輪病院",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/sempos-tokyo.html",
+    "latlng": {
+      "lat": "35.631201",
+      "lng": "139.731771"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "セラヴィ新橋クリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/cest_la_vie.html",
+    "latlng": {
+      "lat": "35.6636385",
+      "lng": "139.7389766"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "汐留健診クリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/shiodome_tensenkai.html",
+    "latlng": {
+      "lat": "35.6582003",
+      "lng": "139.7385775"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "汐留シティセンターセントラルクリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/shiodome_ccccl.html",
+    "latlng": {
+      "lat": "35.6670903",
+      "lng": "139.7530879"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "六本木ヒルズクリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/66clinic.html",
+    "latlng": {
+      "lat": "35.660382",
+      "lng": "139.729614"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "アルコクリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/arcoclinic.html",
+    "latlng": {
+      "lat": "35.631628",
+      "lng": "139.713478"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "多摩健康管理センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/tamakenshin.html",
+    "latlng": {
+      "lat": "35.692041",
+      "lng": "139.41725"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "八王子健康管理センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/tsk-hachioji.html",
+    "latlng": {
+      "lat": "35.661908",
+      "lng": "139.3452"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "新宿追分クリニック板橋分院",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/oiwake.html",
+    "latlng": {
+      "lat": "35.690215",
+      "lng": "139.704616"
+    },
+    "screening": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "船員保険健康管理センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/sempos-yokohama.html",
+    "latlng": {
+      "lat": "35.472305",
+      "lng": "139.583075"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "総合健診センターヘルチェック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/health-check.html",
+    "latlng": {
+      "lat": "35.468412",
+      "lng": "139.625362"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "総合健診センターヘルチェック レディース横浜（女性専用施設）",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/health-check-ladys.html",
+    "latlng": {
+      "lat": "35.472764",
+      "lng": "139.618893"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "ヘルスケアクリニック厚木",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/h-p-m.html",
+    "latlng": {
+      "lat": "35.44104",
+      "lng": "139.362817"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "川崎健診クリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/kawasaki-medic.html",
+    "latlng": {
+      "lat": "35.531912",
+      "lng": "139.699466"
+    },
+    "screening": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "アルファメディック・クリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/alpha-medic.html",
+    "latlng": {
+      "lat": "35.536094",
+      "lng": "139.700528"
+    },
+    "screening": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "柏健診クリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/kashiwa-kenshin.html",
+    "latlng": {
+      "lat": "35.862805",
+      "lng": "139.974371"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "船橋中央病院",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/zensharen-funb.html",
+    "latlng": {
+      "lat": "35.706081",
+      "lng": "139.969844"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "花輪クリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/hanawa.html",
+    "latlng": {
+      "lat": "35.700767",
+      "lng": "139.985358"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "亀田総合病院附属幕張クリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/kameda.html",
+    "latlng": {
+      "lat": "35.6526845",
+      "lng": "140.0235267"
+    },
+    "screening": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "籠原病院",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/kagohara-hospital.html",
+    "latlng": {
+      "lat": "36.169182",
+      "lng": "139.318464"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "アルシェクリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/archeclinic.html",
+    "latlng": {
+      "lat": "35.906232",
+      "lng": "139.622122"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "霞ヶ浦成人病研究事業団 健診センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/ksk-jigyoudan.html",
+    "latlng": {
+      "lat": "36.035401",
+      "lng": "140.215749"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "北水会記念病院健診センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/hokusuikai-kinen.html",
+    "latlng": {
+      "lat": "36.386992",
+      "lng": "140.447395"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "三愛クリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/sanaiclinic.html",
+    "latlng": {
+      "lat": "36.416888",
+      "lng": "138.988101"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "宇都宮記念病院総合健診センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/kenshin-nakayamakai.html",
+    "latlng": {
+      "lat": "36.560506",
+      "lng": "139.891427"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "船員保険北海道健康管理センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/sempos-hokkaido.html",
+    "latlng": {
+      "lat": "43.064436",
+      "lng": "141.355591"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "メディカルプラザ札幌健診クリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/medical-plaza.html",
+    "latlng": {
+      "lat": "43.068167",
+      "lng": "141.352512"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "札幌商工診療所",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/phrf.html",
+    "latlng": {
+      "lat": "43.058801",
+      "lng": "141.350030"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "せんだい総合健診クリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/shinkokai-sendai.html",
+    "latlng": {
+      "lat": "38.256447",
+      "lng": "140.876141"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "金沢聖霊総合病院",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/kanazawaseirei.html",
+    "latlng": {
+      "lat": "36.5667273",
+      "lng": "136.6381331"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "北陸予防医学協会　健康管理センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/hokurikuyobou.html",
+    "latlng": {
+      "lat": "36.7229023",
+      "lng": "137.1168411"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "健康医学予防協会長岡健康管理センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/kenko-i.html",
+    "latlng": {
+      "lat": "37.455834",
+      "lng": "138.826847"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "プラーカ健康増進センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/niwell.html",
+    "latlng": {
+      "lat": "37.910211",
+      "lng": "139.06168"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "山梨県厚生連健康管理センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/y-koseiren.html",
+    "latlng": {
+      "lat": "35.669221",
+      "lng": "138.558626"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "長野市民病院",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/hospital-nagano.html",
+    "latlng": {
+      "lat": "36.669589",
+      "lng": "138.25412"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "山田記念朝日病院",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/asahi-hospital.html",
+    "latlng": {
+      "lat": "36.663143",
+      "lng": "138.242179"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "池田病院",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/ikeda-hp-g.html",
+    "latlng": {
+      "lat": "35.120532",
+      "lng": "138.890072"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "オリエンタルクリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/oriental-gr-oc.html",
+    "latlng": {
+      "lat": "35.168994",
+      "lng": "136.936136"
+    },
+    "screening": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "オリエンタル労働衛生協会名古屋本部",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/oriental-gr-orn.html",
+    "latlng": {
+      "lat": "35.169055",
+      "lng": "136.936018"
+    },
+    "screening": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "名古屋ステーションクリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/station-clinic.html",
+    "latlng": {
+      "lat": "35.171055",
+      "lng": "136.884992"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "大雄会ルーセントクリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/lucent-w.html",
+    "latlng": {
+      "lat": "35.174931",
+      "lng": "136.88113"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "四日市羽津医療センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/hazu-yokkaichihp.html",
+    "latlng": {
+      "lat": "34.98931",
+      "lng": "136.626019"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "武田病院健診センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/takedahp.html",
+    "latlng": {
+      "lat": "34.98757",
+      "lng": "135.755922"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "一翠会千里中央健診センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/m-issuikai.html",
+    "latlng": {
+      "lat": "34.807893",
+      "lng": "135.495511"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "大阪中央病院健康管理センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/osaka-centralhp.html",
+    "latlng": {
+      "lat": "34.698984",
+      "lng": "135.491252"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "近畿健診センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/i-kenshokai.html",
+    "latlng": {
+      "lat": "34.69999",
+      "lng": "135.506659"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "オリエンタル労働衛生協会大阪支部メディカルクリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/oriental-gr-oro.html",
+    "latlng": {
+      "lat": "34.681393",
+      "lng": "135.506959"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "大阪府結核予防会大阪総合健診センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/jata-osaka.html",
+    "latlng": {
+      "lat": "34.688204",
+      "lng": "135.498462"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "神鋼記念病院健診センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/shinkohosp.html",
+    "latlng": {
+      "lat": "34.703994",
+      "lng": "135.211186"
+    },
+    "screening": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "神鋼記念病院附属新神戸ドック健診クリニック",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/shinkohosp-doc.html",
+    "latlng": {
+      "lat": "34.705952",
+      "lng": "135.196724"
+    },
+    "screening": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "メディックス広島健診センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/mdx-h.html",
+    "latlng": {
+      "lat": "34.394437",
+      "lng": "132.454948"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "徳島県総合健診センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/tokusoken.html",
+    "latlng": {
+      "lat": "34.077083",
+      "lng": "134.519445"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "福岡国際総合健診センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/sukoken.html",
+    "latlng": {
+      "lat": "33.591439",
+      "lng": "130.397501"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "日本予防医学協会附属診療所ウェルビーイング博多",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/fukuoka_shinryo.html",
+    "latlng": {
+      "lat": "33.58874",
+      "lng": "130.415225"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "福岡労働衛生研究所福岡労衛研診療所",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/rek.html",
+    "latlng": {
+      "lat": "33.574475",
+      "lng": "130.415826"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "name": "井上病院健診センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/inoue.html",
+    "latlng": {
+      "lat": "32.759184",
+      "lng": "129.867298"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "市民の森病院総合健診センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/m-zenjin.html",
+    "latlng": {
+      "lat": "31.966189",
+      "lng": "131.468464"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "熊本県総合保健センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/souho.html",
+    "latlng": {
+      "lat": "32.782882",
+      "lng": "130.76196"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "name": "那覇市医師会生活習慣病検診センター",
+    "url": "http://www.its-kenpo.or.jp/kanri/keiyaku/ichiran/mail-nahashi.html",
+    "latlng": {
+      "lat": "26.21359",
+      "lng": "127.67375"
+    },
+    "screening": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  }
+]
