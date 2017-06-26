@@ -21,55 +21,94 @@ li {
   line-height: 2rem;
   vertical-align: middle;
   display: inline-block;
-  padding: 0 .5rem;
+  padding: .6rem .8rem;
 }
 label {
   font-size: 1.125rem;
+}
+input[type="search"] {
+  box-sizing: border-box;
+  width: 100%;
+  padding: .4rem .5rem .4rem;
+  margin: .5rem 0;
+  border-radius: .125rem;
+  border: 1px solid lightgray;
+  font-size: 1rem;
+  line-height: 1.2;
+  transition: border .2s;
 }
 #map {
   height: 100vh;
   width: 100vw;
 }
+#search {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: .5rem;
+  padding-right: .5rem;
+}
+#search > * {
+  box-sizing: border-box;
+  flex: 0 1 auto;
+}
+@media (max-width: 48rem) {
+  #search {
+    display: block;
+  }
+}
+#search .words {
+  flex-basis: 25%;
+}
+#search .filters {
+  flex-basis: 75%;
+}
 </style>
 <body>
 <div id="app-root"><div class="app">
-      <form>
-    <ul>
-      <li>
-        <label>
-          <input type="checkbox" name="0" />基本健診
-        </label>
-      </li><li>
-        <label>
-          <input type="checkbox" name="1" />健保指定ドック
-        </label>
-      </li><li>
-        <label>
-          <input type="checkbox" name="2" />1日人間ドック
-        </label>
-      </li><li>
-        <label>
-          <input type="checkbox" name="3" />2日人間ドック
-        </label>
-      </li><li>
-        <label>
-          <input type="checkbox" name="4" />脳ドック
-        </label>
-      </li><li>
-        <label>
-          <input type="checkbox" name="5" />大腸内視鏡検査
-        </label>
-      </li><li>
-        <label>
-          <input type="checkbox" name="6" />健診車
-        </label>
-      </li><li>
-        <label>
-          <input type="checkbox" name="7" />特定保健指導
-        </label>
-      </li>
-    </ul>
-  </form>
+      <div id="search">
+    <div class="filters">
+      <ul>
+        <li>
+          <label>
+            <input type="checkbox" name="0" />基本健診
+          </label>
+        </li><li>
+          <label>
+            <input type="checkbox" name="1" />健保指定ドック
+          </label>
+        </li><li>
+          <label>
+            <input type="checkbox" name="2" />1日人間ドック
+          </label>
+        </li><li>
+          <label>
+            <input type="checkbox" name="3" />2日人間ドック
+          </label>
+        </li><li>
+          <label>
+            <input type="checkbox" name="4" />脳ドック
+          </label>
+        </li><li>
+          <label>
+            <input type="checkbox" name="5" />大腸内視鏡検査
+          </label>
+        </li><li>
+          <label>
+            <input type="checkbox" name="6" />健診車
+          </label>
+        </li><li>
+          <label>
+            <input type="checkbox" name="7" />特定保健指導
+          </label>
+        </li>
+      </ul>
+    </div>
+    <div class="words">
+      <form action="http://www.its-kenpo.or.jp/search/index.html" target="_blank">
+        <input type="search" name="q" placeholder="寿司、温泉など" />
+      </form>
+    </div>
+  </div>
     </div></div>
 <div id="map"></div>
 <script src="//maps.googleapis.com/maps/api/js?key=">

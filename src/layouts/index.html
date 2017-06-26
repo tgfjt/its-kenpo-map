@@ -21,14 +21,46 @@ li {
   line-height: 2rem;
   vertical-align: middle;
   display: inline-block;
-  padding: 0 .5rem;
+  padding: .6rem .8rem;
 }
 label {
   font-size: 1.125rem;
 }
+input[type="search"] {
+  box-sizing: border-box;
+  width: 100%;
+  padding: .4rem .5rem .4rem;
+  margin: .5rem 0;
+  border-radius: .125rem;
+  border: 1px solid lightgray;
+  font-size: 1rem;
+  line-height: 1.2;
+  transition: border .2s;
+}
 #map {
   height: 100vh;
   width: 100vw;
+}
+#search {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: .5rem;
+  padding-right: .5rem;
+}
+#search > * {
+  box-sizing: border-box;
+  flex: 0 1 auto;
+}
+@media (max-width: 48rem) {
+  #search {
+    display: block;
+  }
+}
+#search .words {
+  flex-basis: 25%;
+}
+#search .filters {
+  flex-basis: 75%;
 }
 </style>
 <body>
