@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index",
     "dev": "budo src/client.js:js/bundle.js --open --live --ndjson --dir public | pino-colada",
-    "build:js": "env NODE_ENV=production browserify -p bundle-collapser/plugin src/client.js -g yo-yoify -g envify src/client.js -g uglifyify | uglifyjs --compress --mangle > public/js/bundle.js",
+    "build:js": "browserify -p bundle-collapser/plugin src/client.js -g yo-yoify -g envify src/client.js -g uglifyify | uglifyjs --compress --mangle > public/js/bundle.js",
     "build:html": "node src/render.js > public/index.html",
     "build": "npm run build:js && npm run build:html",
     "lint": "prettier --single-quote --write src/**/*.js",
