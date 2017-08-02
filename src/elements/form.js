@@ -19,6 +19,7 @@ module.exports = (state, emit) => {
         )}
       </ul>
     </div>
+    <div class="counter">Hit: ${state.search.markersLength}件</div>
     <div class="words">
       <form action="http://www.its-kenpo.or.jp/search/index.html" target="_blank">
         <input type="search" name="q" placeholder="寿司、温泉など" />

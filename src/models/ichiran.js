@@ -48,6 +48,7 @@ module.exports = (state, emitter) => {
       ],
       zoom: 14,
       markers: [],
+      markersLength: 0,
       map: null
     },
     state.search
@@ -61,6 +62,8 @@ module.exports = (state, emitter) => {
       state.search.filters.every(f => f.checked) ||
       state.search.filters.every(f => !f.checked)
     ) {
+      state.search.markersLength = state.search.markers.length;
+      emitter.emit('render')
       return state.search.markers.forEach((marker, i) =>
         marker.setVisible(true)
       );
@@ -70,11 +73,13 @@ module.exports = (state, emitter) => {
       .filter(f => f.checked)
       .map(f => f.value);
 
-    state.search.markers
+    const result = state.search.markers
       .filter((marker, i) => {
         return values.every(value => state.search.list[i].screening[value]);
       })
-      .forEach(marker => marker.setVisible(true));
+    state.search.markersLength = result.length;
+    result.forEach(marker => marker.setVisible(true));
+    emitter.emit('render')
   });
 
   emitter.on('DOMContentLoaded', () => {
@@ -102,6 +107,8 @@ module.exports = (state, emitter) => {
 
     fetch('./data/list.json').then(res => res.json()).then(list => {
       state.search.list = list;
+      state.search.markersLength = list.length;
+      emitter.emit('render');
       state.search.markers = list.map(l => {
         const infowindow = new google.maps.InfoWindow({
           content: `<a href="${l.url}" target="_blank">${l.name}</a>`
