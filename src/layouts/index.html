@@ -84,8 +84,30 @@ input[type="search"] {
 #search .filters {
   flex-basis: 75%;
 }
+#search .counter {
+  position: absolute;
+  left: 0;
+  bottom: -2.5rem;
+  background: rgba(255, 255, 255, .8);
+  padding: .5rem;
+  color: #656;
+}
 </style>
 <body>
+  <form name="contact" action="thanks" netlify style="position: relative; z-index: 100; background-color: white">
+  <p>
+    <label>Your Name: <input type="text" name="name"></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email"></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
 <div id="app-root"></div>
 <div id="map"></div>
 <script src="//maps.googleapis.com/maps/api/js?key=AIzaSyAmj3Onn4COjTMjuJmAgVJkKc8b4xbhLQk">
